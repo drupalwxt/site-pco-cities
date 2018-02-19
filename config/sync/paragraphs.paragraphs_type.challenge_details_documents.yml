@@ -1,0 +1,11 @@
+uuid: 19778c3f-e060-4c7a-b42b-c6a44a5cc49b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wSiizPh1SPWFV9Cr6nFRSPDJycal8diRGDOL_PxHSkk
+id: challenge_details_documents
+label: 'Challenge Details Document Section'
+icon_uuid: null
+description: ''
+behavior_plugins: {  }

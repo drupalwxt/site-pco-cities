@@ -1,0 +1,23 @@
+uuid: 75b317b8-51f7-4410-bfc1-df3dfde64a17
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_challengesteps_intro
+    - node.type.challenge_steps
+  module:
+    - text
+_core:
+  default_config_hash: s79cdoxBSz4qptxCxuc67AxhCS-r6Pt9CmHtCBrh7Wo
+id: node.challenge_steps.field_challengesteps_intro
+field_name: field_challengesteps_intro
+entity_type: node
+bundle: challenge_steps
+label: 'Introductory Text'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

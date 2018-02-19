@@ -1,0 +1,25 @@
+uuid: 46a903ac-d9c0-497a-9146-779790c84dde
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_url
+    - paragraphs.paragraphs_type.challenge_details_documents
+  module:
+    - link
+_core:
+  default_config_hash: PW7_iEsJ4rLCu2gpz4Uxgr_UvEJqkH0IiUuJ4Zy7wZs
+id: paragraph.challenge_details_documents.field_url
+field_name: field_url
+entity_type: paragraph
+bundle: challenge_details_documents
+label: 'HTML Page Alternative'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 0
+field_type: link

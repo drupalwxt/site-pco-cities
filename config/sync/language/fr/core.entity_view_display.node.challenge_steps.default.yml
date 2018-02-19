@@ -1,0 +1,10 @@
+third_party_settings:
+  panelizer:
+    displays:
+      default:
+        blocks:
+          2a87b6db-c9c2-44e4-b38d-5bab05486499:
+            label: Défis
+          4e853ecd-2ec5-4cd1-91ec-bf38cc9b4014:
+            label: Titre
+        label: 'Par défaut'

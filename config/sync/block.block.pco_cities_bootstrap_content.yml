@@ -1,0 +1,22 @@
+uuid: ca0ff2d7-ffca-4263-969a-0b7298bfcd2f
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - pco_cities_bootstrap
+_core:
+  default_config_hash: w5c3opi0MOUT3wXAGoeaJhI0dBs9IRTVpwWClxko_ns
+id: pco_cities_bootstrap_content
+theme: pco_cities_bootstrap
+region: content
+weight: -7
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

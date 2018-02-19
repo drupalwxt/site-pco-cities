@@ -1,0 +1,11 @@
+uuid: 9954c583-3071-46d4-ac3e-31d03903849a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WD46NHhi20L5kH2z89szzTp0xgPuxd2UjHp0Xdrq6Y4
+id: challenge_step
+label: 'Challenge Step'
+icon_uuid: null
+description: ''
+behavior_plugins: {  }

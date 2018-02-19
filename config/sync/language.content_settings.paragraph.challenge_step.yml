@@ -1,0 +1,18 @@
+uuid: 31bdc332-5658-4ce2-83f4-78e941c46147
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.challenge_step
+  module:
+    - content_translation
+third_party_settings:
+  content_translation:
+    enabled: true
+_core:
+  default_config_hash: OPQ4Iko6R5vgpbuLxIbBncW4wBAd8dpjPQ7x1gYU4RE
+id: paragraph.challenge_step
+target_entity_type_id: paragraph
+target_bundle: challenge_step
+default_langcode: current_interface
+language_alterable: true

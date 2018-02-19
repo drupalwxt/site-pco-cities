@@ -1,0 +1,23 @@
+uuid: 9aee9de6-6ff4-4f14-a6ce-8d8e17a717b8
+langcode: en
+status: true
+dependencies:
+  module:
+    - entity_reference_revisions
+    - node
+    - paragraphs
+_core:
+  default_config_hash: SGF5lPaD1BobxaQ1bRpHtXhnhAprBwVGMN8UsufrdJg
+id: node.field_challengesteps
+field_name: field_challengesteps
+entity_type: node
+type: entity_reference_revisions
+settings:
+  target_type: paragraph
+module: entity_reference_revisions
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

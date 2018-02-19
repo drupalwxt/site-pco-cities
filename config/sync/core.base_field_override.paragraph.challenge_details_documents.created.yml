@@ -1,0 +1,18 @@
+uuid: 4229d1c6-60ac-45c2-ab36-7b4f9a4265c0
+langcode: en
+status: true
+dependencies:
+  config:
+    - paragraphs.paragraphs_type.challenge_details_documents
+id: paragraph.challenge_details_documents.created
+field_name: created
+entity_type: paragraph
+bundle: challenge_details_documents
+label: 'Authored on'
+description: 'The time that the Paragraph was created.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: created
