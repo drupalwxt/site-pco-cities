@@ -1,0 +1,14 @@
+uuid: 0860a03d-90a5-4e27-b3f3-990a1948d754
+langcode: en
+status: true
+dependencies:
+  module:
+    - lightning_core
+third_party_settings:
+  lightning_core:
+    description: ''
+id: challenge_owner
+label: 'Challenge Owner'
+weight: 5
+is_admin: null
+permissions: {  }

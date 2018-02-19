@@ -1,0 +1,14 @@
+uuid: b21d6f4a-89ed-4fa3-a97e-eb98368080c1
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.challenge_owner
+  module:
+    - user
+id: user_add_role_action.challenge_owner
+label: 'Add the Challenge Owner role to the selected users'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: challenge_owner

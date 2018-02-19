@@ -1,0 +1,14 @@
+uuid: 3938837c-1bfb-4d25-a8fa-a81ffacfdb50
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.challenge_owner
+  module:
+    - user
+id: user_remove_role_action.challenge_owner
+label: 'Remove the Challenge Owner role from the selected users'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: challenge_owner
